@@ -1,0 +1,21 @@
+/*-- scss:defaults --*/
+
+
+// fonts
+$font-family-sans-serif: "PT Sans", "Arial", serif !default;
+$font-family-monospace: "Monaco", "Courier New", monospace !default;
+$presentation-font-size-root: 32px;
+
+//headings
+$presentation-heading-font: "PT Sans Caption", $font-family-sans-serif;
+$presentation-heading-font-weight: 600;
+$presentation-h1-font-size: 2em;
+$presentation-h2-font-size: 1.3em;
+$presentation-h3-font-size: 1em;
+
+// code block
+$code-block-font-size: 0.8em;
+
+// layout
+$presentation-slide-text-align: left;
+$presentation-title-slide-text-align: left;
